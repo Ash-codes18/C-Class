@@ -1,0 +1,25 @@
+Write a program to find the maximum number out of two integer numbers by using ternary operator.
+
+Input Format
+
+10 15
+
+Constraints
+
+Both numbers are integers
+
+Output Format
+
+15
+
+Sample Input 0
+
+10 15
+
+Sample Output 0
+
+15
+
+Explanation 0
+
+Out of integrs 10 and 15 maximum number is 15
