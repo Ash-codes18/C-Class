@@ -1,0 +1,22 @@
+In number theory, a palindromic prime number is a positive integer where the number is both palindrome number as well as prime number. You are given an integer n. Print "YES" (without quotes) if the given number is palindromic prime number, print "NO" (without quotes) otherwise.
+
+Input Format
+
+The only line of input contains an integer n.
+
+Constraints
+
+1 <= n <= 10000
+
+Output Format
+
+Print "YES" (without quotes) if the given number is palindromic prime number, print "NO" (without quotes) otherwise.
+
+Sample Input 0
+
+121
+
+Sample Output 0
+
+NO
+
