@@ -9,7 +9,7 @@ int search(int arr[],int n,int a){
         }
         else{
             loc=-1;
-        }
+        }   
     }
     if(loc!=-1){
         printf("The location of the element is : %d",loc+1);
