@@ -1,0 +1,33 @@
+A tournament was held in LPU. There were 11 players in team. Each team member has scored some runs. Create a structure that contains player id and runs scored by each player. You need to calculate the final score scored by cricket team.
+
+Input Format
+
+Input consist of player id and runs scored by each player.
+
+Constraints
+
+No. of players in cricket team are 11.
+
+Output Format
+
+Display the total score of a team.
+
+Sample Input 0
+
+11
+1 10
+2 10
+3 10
+4 10
+5 5
+6 5
+7 5
+8 5
+9 5
+10 5
+11 5
+
+Sample Output 0
+
+75
+
