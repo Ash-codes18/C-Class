@@ -1,0 +1,10 @@
+Dynamic memory allocation in C is a way of allocating memory during the runtime of a program, as opposed to static memory allocation where memory is allocated at compile time. In dynamic memory allocation, the programmer can request a block of memory of a certain size, and the operating system allocates that memory from the heap at runtime.
+
+C provides four library functions for dynamic memory allocation: malloc, calloc, realloc, and free.
+
+    malloc function is used to allocate a block of memory of a given size in bytes. It returns a pointer to the first byte of the allocated memory block.
+    calloc function is similar to malloc, but it initializes the allocated memory to zero.
+    realloc function is used to change the size of an already allocated block of memory.
+    free function is used to deallocate a previously allocated block of memory.
+
+Dynamic memory allocation is useful when the programmer doesn't know the exact amount of memory required for a program at compile time or when the required memory size changes during runtime. However, improper use of dynamic memory allocation can lead to memory leaks or segmentation faults, which can cause the program to crash. Therefore, it's important to use dynamic memory allocation carefully and to ensure that all allocated memory is properly freed when it is no longer needed.
