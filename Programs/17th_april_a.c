@@ -5,7 +5,7 @@ int main(){
     int *ptr = (int*)malloc(30*sizeof(int));
 
     for(int i=0;i<5;i++){
-        printf("Enter element %d of the array : ",i+1);
+        printf("\tEnter element %d of the array : ",i+1);
         scanf("%d",&ptr[i]);
     }
 

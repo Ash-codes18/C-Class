@@ -1,0 +1,28 @@
+John is a member of a lucky draw contest. Once he conducted one lucky draw competition, where various members submitted their nominations in the form of slips, where their member id had been written. These slips are kept in a jar and now John is considering these slips as array elements. John decided to give a lucky draw to only those members whose member id is a multiple of 5. Kindly help Mr. John to organize this lucky draw contest by providing them a fully automated program.
+
+Input Format
+
+Take input for n (number of array elements) and integer values of array elements (consider member ids as values)
+
+Constraints
+
+If the value of n is less than 5 and greater than 50, then display “Invalid input”
+
+Output Format
+
+Display only those array elements (member ids) which are multiples of 5
+
+Sample Input 0
+
+5
+23
+25
+30
+17
+34
+
+Sample Output 0
+
+25
+30
+
